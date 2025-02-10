@@ -1,6 +1,7 @@
+<img src="https://github.com/Anuragkumar-687/Anuragkumar-687/blob/main/banner.png">
 <div align='center' >
   
-<h1 align="center">Hi 👋, I'm Anurag Kumar</h1>
+<h1 align="center">Hi! I'm Anurag Kumar</h1>
 <h2 align="center">A passionate frontend developer from India</h2>
 <img src='https://mir-s3-cdn-cf.behance.net/project_modules/hd/5eeea355389655.59822ff824b72.gif' ; style='height:250px';  >
 
@@ -38,7 +39,7 @@
   <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="slack logo"  />
 
 <p align="center">
-<a href="https://linkedin.com/in/anurag kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anurag kumar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anurag-kumar121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anurag kumar" height="30" width="40" /></a>
 <a href="https://instagram.com/anurag_singh__212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anurag_singh__212" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/anurag_kumar2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="anurag_kumar2005" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/anurag_kumar2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anurag_kumar2005" height="30" width="40" /></a>
