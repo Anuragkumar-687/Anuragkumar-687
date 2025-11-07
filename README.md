@@ -45,7 +45,9 @@
 <a href="https://www.leetcode.com/anurag_kumar2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anurag_kumar2005" height="30" width="40" /></a>
 </p>
 <hr>
-
+<a href="https://holopin.me/anuragkumar687" target="_blank">
+  <img src="https://holopin.me/anuragkumar687" alt="@anuragkumar687's Holopin board" />
+</a>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuragkumar-687&show_icons=true&locale=en&theme=omni" alt="anuragkumar-687" /></p>
 <br>
