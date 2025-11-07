@@ -44,7 +44,9 @@
 <a href="https://codeforces.com/profile/anurag_kumar2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="anurag_kumar2005" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/anurag_kumar2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anurag_kumar2005" height="30" width="40" /></a>
 </p>
+
 <hr>
+<h2  align="center">🏅 Holopin Badges</h2>
 <a href="https://holopin.me/anuragkumar687" target="_blank">
   <img src="https://holopin.me/anuragkumar687" alt="@anuragkumar687's Holopin board" />
 </a>
