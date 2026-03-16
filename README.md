@@ -1,75 +1,21 @@
-<img src="https://github.com/Anuragkumar-687/Anuragkumar-687/blob/main/banner.png">
-<div align='center' >
-  
-<h1 align="center">Hi! I'm Anurag Kumar</h1>
-<h2 align="center">A passionate frontend developer from India</h2>
-<img src='https://mir-s3-cdn-cf.behance.net/project_modules/hd/5eeea355389655.59822ff824b72.gif' ; style='height:250px';  >
+# 💫 About Me:
+Hi, I'm Anurag Kumar, a second-year B.Tech Computer Science student passionate about building scalable web applications and solving real-world problems through technology. I am a results-driven developer with strong interest in full-stack development, data structures, and system design.<br><br>I have solved 350+ problems on LeetCode, which has strengthened my understanding of algorithms, data structures, and efficient problem-solving techniques. I enjoy tackling challenging problems and continuously improving my logical thinking and coding skills.<br><br>My technical expertise includes full-stack web development, where I work across both frontend and backend technologies to create responsive, scalable, and maintainable applications.<br><br>Tech Stack<br><br>Languages: Python, JavaScript, TypeScript<br><br>Frontend: React, HTML5, CSS3<br><br>Backend: Node.js, Express.js<br><br>Database: MongoDB<br><br>I am passionate about writing clean, efficient, and maintainable code, building impactful projects, and continuously improving my skills in software engineering and scalable system development.
 
 
-###
-<h2  align ='center' >Languages and Tools:</h2>
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" height="30"  />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git"  height="30" style="margin: 0 10px;" />
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anurag-kumar121) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anuragkumar82108@gmail.com) 
 
-</div>
+# 💻 Tech Stack:
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Anuragkumar-687&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Anuragkumar-687&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anuragkumar-687&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Anuragkumar-687&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+---
+[![](https://visitcount.itsvg.in/api?id=Anuragkumar-687&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h2 align="center">Connect with me:</h2>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="slack logo"  />
-
-<p align="center">
-<a href="https://linkedin.com/in/anurag-kumar121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anurag kumar" height="30" width="40" /></a>
-<a href="https://instagram.com/anurag_singh__212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anurag_singh__212" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/anurag_kumar2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="anurag_kumar2005" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/anurag_kumar2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anurag_kumar2005" height="30" width="40" /></a>
-</p>
-
-<hr>
-<h2  align="center">🏅 Holopin Badges</h2>
-<a href="https://holopin.me/anuragkumar687" target="_blank">
-  <img src="https://holopin.me/anuragkumar687" alt="@anuragkumar687's Holopin board" />
-</a>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuragkumar-687&show_icons=true&locale=en&theme=omni" alt="anuragkumar-687" /></p>
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuragkumar-687&show_icons=true&locale=en&theme=blueberry" alt="anuragkumar-687" /></p>
-
-<br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuragkumar-687&theme=highcontrast" alt="anuragkumar-687" /></p>
-</div>
-<h1 align=center>About Me</h1>
-<p>
-  Hii, myself Anurag. I'm Aspiring Computer Science Engineer pursuing a B.Tech in CSE, passionate about coding, problem-solving, and cutting-edge technologies. Eager to explore fields like AI, machine learning, while constantly enhancing practical skills through projects and internships. Driven by innovation and committed to building impactful tech solutions.
-</p>
-<br>
-<div align=center>
-  
- 🌱 I’m currently learning **Javascript, React, DSA**
-
-📫 How to reach me **anuragkumar82108@gmail.com**
-
-⚡ Fun fact **I think I am the Best Cricketer and Singer.**
-</div>
-
-<img src='https://camo.githubusercontent.com/fc1541c4471df3bbf264cdbb2cbedf911e30cabed91f1000cb5975874013dab5/68747470733a2f2f626c6f672e72616e646f6d626974732e686f73742f636f6e74656e742f696d616765732f323032322f30372f53637265656e73686f742d66726f6d2d323032322d30372d31372d31302d34312d33312e706e67'>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
