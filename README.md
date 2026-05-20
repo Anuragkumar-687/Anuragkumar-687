@@ -90,8 +90,7 @@
 
 <br/>
 
-[![An image of @nstkrishna's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nstkrishna)](https://holopin.io/@nstkrishna)
-
+[![An image of @anuragkumar687's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anuragkumar687)](https://holopin.io/@anuragkumar687)
 <b>Social</b>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
