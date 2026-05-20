@@ -1,21 +1,110 @@
-# 💫 About Me:
-Hi, I'm Anurag Kumar, a second-year B.Tech Computer Science student passionate about building scalable web applications and solving real-world problems through technology. I am a results-driven developer with strong interest in full-stack development, data structures, and system design.<br><br>I have solved 350+ problems on LeetCode, which has strengthened my understanding of algorithms, data structures, and efficient problem-solving techniques. I enjoy tackling challenging problems and continuously improving my logical thinking and coding skills.<br><br>My technical expertise includes full-stack web development, where I work across both frontend and backend technologies to create responsive, scalable, and maintainable applications.<br><br>Tech Stack<br><br>Languages: Python, JavaScript, TypeScript<br><br>Frontend: React, HTML5, CSS3<br><br>Backend: Node.js, Express.js<br><br>Database: MongoDB<br><br>I am passionate about writing clean, efficient, and maintainable code, building impactful projects, and continuously improving my skills in software engineering and scalable system development.
+<!-- Hero Section -->
+<h1 align="center">✨ Anurag Kumar ✨ </h1>
 
+<p align="center">
+  <img
+    width="200"
+    height="200"
+    src="https://media.tenor.com/hD56X-Q5AzMAAAAj/gopher-shaking.gif"
+    alt="Go Gopher"
+  />
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anurag-kumar121) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anuragkumar82108@gmail.com) 
+<h3 align="center">
+  building scalable backends · distributed systems · real-time infra
+</h3>
 
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Anuragkumar-687&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Anuragkumar-687&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anuragkumar-687&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Anuragkumar-687&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <b>
+    “I don't let schooling interfere with my education.”
+  </b>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Anuragkumar-687&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 👋 About Me
+
+- ⚙️ Backend developer focused on **distributed systems**
+- 🐹 Strong interest in backend development, scalable systems & DSA
+- 🌐 Build **low-latency**, **fault-tolerant** services
+- 🧵 Love async systems, queues, streams & consistency trade-offs
+- 📫 Reach me at **anuragkumar82108@gmail.com**
+
+---
+
+### 🛠 Backend & Systems Stack
+
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20"/> &ensp; **Things I Build With**
+
+<br/>
+
+[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,postgres,mongodb,redis,bash,prisma,git,github)](https://skillicons.dev)
+
+---
+
+### 🚀 What I Care About
+
+- Distributed systems fundamentals (CAP, consensus, replication)
+- Event-driven architectures & message queues
+- System design, scaling & failure modes
+- Infrastructure-aware backend engineering
+
+
+<br/>
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width ="25"> &ensp;<b> Stats </b>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+
+  <!-- GitHub Main Stats -->
+  <!-- <span>
+    <a href="#">
+      <img width="330" src="https://github-readme-stats.vercel.app/api?username=NSTKrishna&show_icons=true&theme=dark" />
+    </a>
+  </span>
+
+  <!-- Top Languages -->
+  <!-- <span>
+    <a href="#">
+      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NSTKrishna&layout=compact&theme=dark" />
+    </a>
+  </span> -->
+
+  <!-- Salesp07 Custom Stats -->
+  <span>
+    <a href="#">
+      <img width="410" src="https://github-readme-stats-salesp07.vercel.app/api?username=Anuragkumar-687&show_icons=true&theme=dark&rank_icon=github&hide_border=true&border_radius=10" />
+    </a>
+  </span>
+
+  <!-- Streak Stats -->
+  <span>
+    <a href="#">
+      <img width="430" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Anuragkumar-687&count_private=true&theme=dark&hide_border=true&border_radius=10&card_width=495" />
+    </a>
+  </span>
+
+</div>
+
+
+<br/>
+
+[![An image of @nstkrishna's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nstkrishna)](https://holopin.io/@nstkrishna)
+
+<b>Social</b>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
+<div style="display: flex; gap: 12px; white-space: nowrap;">
+  <a href="https://www.linkedin.com/in/anurag-kumar121/" target="_blank">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" height="28"/>
+  </a>
+  <a href="https://github.com/Anuragkumar-687" target="_blank">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" height="28"/>
+  </a>
+</div>
+
+<div>
+  <H4>Visitor Count</H4>
+  <img src="https://count.getloli.com/@Anurag Kumar?name=Anurag+Kumar&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto"/>
+</div>
