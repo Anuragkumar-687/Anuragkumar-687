@@ -104,6 +104,6 @@
 </div>
 
 <div>
-  <H4>Visitor Count</H4>
+  <H4>Visitor Counts</H4>
   <img src="https://count.getloli.com/@Anurag Kumar?name=Anurag+Kumar&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto"/>
 </div>
