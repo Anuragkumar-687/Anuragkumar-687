@@ -1,109 +1,146 @@
-<!-- Hero Section -->
-<h1 align="center">✨ Anurag Kumar ✨ </h1>
+<div align="center">
 
-<p align="center">
-  <img
-    width="200"
-    height="200"
-    src="https://media.tenor.com/hD56X-Q5AzMAAAAj/gopher-shaking.gif"
-    alt="Go Gopher"
-  />
-</p>
+# Anurag Kumar
 
-<h3 align="center">
-  building scalable backends · distributed systems · real-time infra
-</h3>
+**Full-Stack Developer · Backend-Focused · B.Tech in Artificial Intelligence '28**
 
-<p align="center">
-  <b>
-    “I don't let schooling interfere with my education.”
-  </b>
-</p>
-
----
-
-### 👋 About Me
-
-- ⚙️ Backend developer focused on **distributed systems**
-- 🐹 Strong interest in backend development, scalable systems & DSA
-- 🌐 Build **low-latency**, **fault-tolerant** services
-- 🧵 Love async systems, queues, streams & consistency trade-offs
-- 📫 Reach me at **anuragkumar82108@gmail.com**
-
----
-
-### 🛠 Backend & Systems Stack
-
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20"/> &ensp; **Things I Build With**
+Building scalable, production-ready applications with a focus on backend systems and API design.
 
 <br/>
 
-[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,postgres,mongodb,redis,bash,prisma,git,github)](https://skillicons.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anurag-kumar121/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Anurag_Kumar2005/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Anuragkumar-687)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:anuragkumar82108@gmail.com)
+
+</div>
 
 ---
 
-### 🚀 What I Care About
+### About Me
 
-- Distributed systems fundamentals (CAP, consensus, replication)
-- Event-driven architectures & message queues
-- System design, scaling & failure modes
-- Infrastructure-aware backend engineering
+- 🎓 Pre-final year student pursuing **B.Tech in Artificial Intelligence** at Newton School of Technology, Rishihood University
+- 💼 Recently completed a **Full Stack Developer Internship** at Bizowl — built and optimized production services with React, Node.js, MongoDB, and Firebase
+- 🛠️ Building full-stack applications with a focus on **scalable backends**, **RESTful APIs**, and **real-time services**
+- 🧩 Solved **421+ problems** on LeetCode · Contest Rating **1558** (Top 30%)
+
+---
+
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20"/> &ensp; **Tech Stack**
 
 
-<br/>
+**Languages**
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width ="25"> &ensp;<b> Stats </b>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+**Databases**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+**DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+### Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🏨 [StaySync](https://github.com/https://github.com/Anuragkumar-687/StaySync) &nbsp; [![Demo](https://img.shields.io/badge/Live_Demo-000?style=flat-square&logo=vercel&logoColor=white)](https://https://stay-sync-2muq.vercel.app/)
+
+**Role-based hostel management platform with 10+ modules**
+
+Engineered room allocation, QR-based gate passes, payments (Razorpay), attendance tracking, and analytics — serving students, administrators, and security staff.
+
+`Next.js` `Node.js` `Express.js` `MongoDB` `Redis`
+
+- JWT + RBAC authentication with role-based access control
+- Redis caching and automated notification system
+- **Reduced manual administrative effort by 85%**
+
+</td>
+<td width="50%">
+
+#### 🛒 [QuickKart AI](https://github.com/https://github.com/Anuragkumar-687/QuickKart) &nbsp; [![Demo](https://img.shields.io/badge/Live_Demo-000?style=flat-square&logo=vercel&logoColor=white)](https://https://quick-kart-black.vercel.app)
+
+**AI-powered commerce platform with personalized recommendations**
+
+Built an intelligent e-commerce platform integrating 200+ products from 2 external APIs through automated ETL pipelines, with 15+ production-ready REST endpoints.
+
+`Node.js` `Express.js` `MongoDB` `Redis`
+
+- 5+ recommendation modules (Trending Near You, Popular in Region, Frequently Bought Together)
+- Event-driven analytics pipeline with Redis caching and MongoDB indexing
+- JWT auth, RBAC, server-side pagination, wishlist, and secure checkout
+
+</td>
+</tr>
+</table>
+
+---
+
+### Achievements
+
+| | |
+|:---:|:---|
+| 💻 | **LeetCode** — Solved 421+ problems · Contest Rating **1558** (Top 30.76%) |
+| 🏅 | **Hack the Hunt** — Winner · Coding-based treasure hunt demonstrating Git, Linux, and debugging skills |
+| 🌐 | **Open Source Contributor** — Contributed to open-source projects via merged pull requests and bug fixes |
+| 👥 | **Coding Club** — Active member · Coding contests, peer learning sessions, and technical discussions |
+
+---
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25" /> &ensp; **Stats**
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+  <span>
+    <a href="#">
+      <img width="410" src="https://github-readme-stats-salesp07.vercel.app/api?username=Anuragkumar-687&show_icons=true&theme=dark&rank_icon=github&hide_border=true&border_radius=10&count_private=true" />
+    </a>
+  </span>
+  <span>
+    <a href="#">
+      <img width="430" src="https://streak-stats.demolab.com/?user=Anuragkumar-687&theme=dark&hide_border=true&border_radius=10" />
+    </a>
+  </span>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
 
 <div align="center">
 
-  <!-- GitHub Main Stats -->
-  <!-- <span>
-    <a href="#">
-      <img width="330" src="https://github-readme-stats.vercel.app/api?username=NSTKrishna&show_icons=true&theme=dark" />
-    </a>
-  </span>
+**Let's connect** — I'm open to internship opportunities, collaborations, and interesting conversations.
 
-  <!-- Top Languages -->
-  <!-- <span>
-    <a href="#">
-      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NSTKrishna&layout=compact&theme=dark" />
-    </a>
-  </span> -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anurag-kumar121/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anuragkumar82108@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anuragkumar-687)
 
-  <!-- Salesp07 Custom Stats -->
-  <span>
-    <a href="#">
-      <img width="410" src="https://github-readme-stats-salesp07.vercel.app/api?username=Anuragkumar-687&show_icons=true&theme=dark&rank_icon=github&hide_border=true&border_radius=10" />
-    </a>
-  </span>
-
-  <!-- Streak Stats -->
-  <span>
-    <a href="#">
-      <img width="430" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Anuragkumar-687&count_private=true&theme=dark&hide_border=true&border_radius=10&card_width=495" />
-    </a>
-  </span>
-
-</div>
-
-
-<br/>
-
-[![An image of @anuragkumar687's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anuragkumar687)](https://holopin.io/@anuragkumar687)
-<b>Social</b>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
-
-<div style="display: flex; gap: 12px; white-space: nowrap;">
-  <a href="https://www.linkedin.com/in/anurag-kumar121/" target="_blank">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" height="28"/>
-  </a>
-  <a href="https://github.com/Anuragkumar-687" target="_blank">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" height="28"/>
-  </a>
-</div>
-
-<div>
-  <H4>Visitor Counts</H4>
-  <img src="https://count.getloli.com/@Anurag Kumar?name=Anurag+Kumar&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto"/>
 </div>
