@@ -72,7 +72,7 @@ Building scalable, production-ready applications with a focus on backend systems
 <tr>
 <td width="50%">
 
-#### 🏨 [StaySync](https://github.com/https://github.com/Anuragkumar-687/StaySync) &nbsp; [![Demo](https://img.shields.io/badge/Live_Demo-000?style=flat-square&logo=vercel&logoColor=white)](https://https://stay-sync-2muq.vercel.app/)
+#### 🏨 StaySync
 
 **Role-based hostel management platform with 10+ modules**
 
@@ -87,8 +87,7 @@ Engineered room allocation, QR-based gate passes, payments (Razorpay), attendanc
 </td>
 <td width="50%">
 
-#### 🛒 [QuickKart AI](https://github.com/https://github.com/Anuragkumar-687/QuickKart) &nbsp; [![Demo](https://img.shields.io/badge/Live_Demo-000?style=flat-square&logo=vercel&logoColor=white)](https://https://quick-kart-black.vercel.app)
-
+#### 🛒 QuickKart AI
 **AI-powered commerce platform with personalized recommendations**
 
 Built an intelligent e-commerce platform integrating 200+ products from 2 external APIs through automated ETL pipelines, with 15+ production-ready REST endpoints.
