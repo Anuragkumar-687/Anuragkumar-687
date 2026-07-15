@@ -20,7 +20,7 @@ Building scalable, production-ready applications with a focus on backend systems
 ### About Me
 
 - 🎓 Pre-final year student pursuing **B.Tech in Artificial Intelligence** at Newton School of Technology, Rishihood University
-- 💼 Completed a **Full-Stack Developer Internship** at Bizowl — shipped and optimized production services with React, TypeScript, Node.js, Express, MongoDB, and Firebase
+- 💼 **Full-Stack Developer Internship** at Bizowl — shipped and optimized production services with React, TypeScript, Node.js, Express, MongoDB, and Firebase
 - 🛠️ Focused on **scalable backends**, **RESTful API design**, and **real-time services**
 - 🌱 Actively contributing to open source while learning Kubernetes, operators, and cloud-native systems
 - 🧩 Solved **430+ problems** on LeetCode · Contest Rating **1558** (Top 30%)
