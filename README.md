@@ -92,43 +92,6 @@ My goal is to become a long-term contributor by consistently solving meaningful 
 
 ---
 
-### Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### 🏨 StaySync
-**Role-based hostel management platform — 10+ modules**
-
-Engineered room allocation, QR-based gate passes, Razorpay payments, attendance tracking, and analytics for students, administrators, and security staff.
-
-`Next.js` `Node.js` `Express.js` `MongoDB` `Redis`
-
-- JWT + RBAC authentication with fine-grained access control
-- Redis caching and an automated notification system
-- **Cut manual administrative effort by ~85%**
-
-</td>
-<td width="50%" valign="top">
-
-#### 🛒 QuickKart AI
-**AI-powered commerce platform with personalized recommendations**
-
-Built an intelligent e-commerce backend integrating 200+ products from 2 external APIs via automated ETL pipelines, exposed through 15+ production-grade REST endpoints.
-
-`Node.js` `Express.js` `MongoDB` `Redis`
-
-- 5+ recommendation modules (Trending Near You, Popular in Region, Frequently Bought Together)
-- Event-driven analytics pipeline with Redis caching and MongoDB indexing
-- JWT auth, RBAC, server-side pagination, wishlist, and secure checkout
-
-</td>
-</tr>
-</table>
-
----
-
 ### Achievements
 
 | | |
