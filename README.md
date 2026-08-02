@@ -2,47 +2,43 @@
 
 # Anurag Kumar
 
-**Full-Stack Developer · Backend-Focused · B.Tech in Artificial Intelligence '28**
+**Backend Engineer · Cloud-Native Open Source**
 
-Building scalable, production-ready applications with a focus on backend systems and API design — and giving back through open source.
+I work on distributed storage, Kubernetes controllers, and API infrastructure —
+usually by finding a real bug in a production codebase and fixing it upstream.
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anurag-kumar121/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Anurag_Kumar2005/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Anuragkumar-687)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anurag-kumar121/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:anuragkumar82108@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Anurag_Kumar2005/)
 
 </div>
 
 ---
 
-### About Me
+## About
 
-- 🎓 Pre-final year student pursuing **B.Tech in Artificial Intelligence** at Newton School of Technology, Rishihood University
-- 💼 **Full-Stack Developer Internship** at Bizowl — shipped and optimized production services with React, TypeScript, Node.js, Express, MongoDB, and Firebase
-- 🛠️ Focused on **scalable backends**, **RESTful API design**, and **real-time services**
-- 🌱 Actively contributing to open source while learning Kubernetes, operators, and cloud-native systems
-- 🧩 Solved **430+ problems** on LeetCode · Contest Rating **1523** (Top 30%)
-
----
-
-### Current Focus
-
-- 🧪 Building **production-grade backend systems** — APIs, caching, and event-driven pipelines
-- ⚛️ Building **scalable React + TypeScript** applications
-- ☸️ Learning **Kubernetes and cloud-native development** through hands-on open-source work
-- 🔓 Growing as a **long-term open-source contributor**
+- Pre-final year B.Tech in Artificial Intelligence at Newton School of Technology, Rishihood University.
+- Full-Stack Developer intern at **Bizowl**, shipping and maintaining production services on Node.js, Express, MongoDB, and React.
+- Interested in backend engineering, distributed systems, and cloud-native infrastructure.
+- Open source contributor to **[Apicurio Registry](https://github.com/Apicurio/apicurio-registry)** and **[OpenEverest](https://github.com/openeverest/openeverest)**, working on production codebases.
+- Solved 430+ LeetCode problems (Contest Rating: 1558), strengthening my problem-solving and debugging skills.
 
 ---
 
-### Open Source
+## Open Source
 
-I contribute to open source to become a stronger engineer — working on real problems in large production codebases and learning cloud-native systems from the inside.
+I contribute to production open-source projects by investigating issues, understanding existing systems, and working with maintainers to deliver well-tested fixes.
 
-Most of that work is with **[OpenEverest](https://github.com/percona/everest)**, an open-source, Kubernetes-native platform for deploying and managing databases like MongoDB, PostgreSQL, and MySQL. I've built the project locally and worked through its frontend architecture, routing, and authentication flow, then moved deeper into how databases are provisioned, scheduled, and managed on Kubernetes. My current focus is the **Providers & Plugins architecture**, which is teaching me how cloud-native systems, Kubernetes operators, and database provisioning fit together in practice.
+**[Apicurio Registry](https://github.com/Apicurio/apicurio-registry)** · Java · Quarkus · Kafka
 
-My goal is to become a long-term contributor by consistently solving meaningful problems, understanding the codebase deeply, and learning from production-grade software.
+Contributed multiple merged and ongoing pull requests to the KafkaSQL storage backend, working on event sourcing, journal replay, cluster consistency, and schema management. Through these contributions, I've gained practical experience with distributed state management and production backend systems.
+→ [My contributions](https://github.com/Apicurio/apicurio-registry/issues?q=author%3AAnuragkumar-687)
+
+**[OpenEverest](https://github.com/openeverest/openeverest)** · Go · Kubernetes · TypeScript
+
+Contributing across both the frontend and Go control plane, working on controller lifecycle, provider architecture, plugin systems, and Kubernetes-native database management. The project has given me hands-on experience with Kubernetes operators, reconciliation loops, and cloud-native platform design.
+→ [My contributions](https://github.com/openeverest/openeverest/issues?q=author%3AAnuragkumar-687)
 
 ---
 
@@ -92,36 +88,23 @@ My goal is to become a long-term contributor by consistently solving meaningful 
 
 ---
 
-### Achievements
-
-| | |
-|:---:|:---|
-| 💻 | **LeetCode** — 430+ problems solved · Contest Rating **1558** (Top 30%) |
-| 🏅 | **Hack the Hunt** — Winner · Coding-based treasure hunt showcasing Git, Linux, and debugging skills |
-| 🌐 | **Open Source** — Active contributor to cloud-native and backend projects |
-| 👥 | **Coding Club** — Active member · Contests, peer learning, and technical discussions |
-
----
-
 <div align="center">
 
-### GitHub Stats
-
-<img width="410" src="https://github-readme-stats-salesp07.vercel.app/api?username=Anuragkumar-687&show_icons=true&theme=dark&rank_icon=github&hide_border=true&border_radius=10&count_private=true" />
-<img width="430" src="https://streak-stats.demolab.com/?user=Anuragkumar-687&theme=dark&hide_border=true&border_radius=10" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anuragkumar-687&theme=github-dark&hide_border=true&area=true" width="850" />
+<img height="165" src="https://github-readme-stats-salesp07.vercel.app/api?username=Anuragkumar-687&show_icons=true&theme=dark&rank_icon=github&hide_border=true&border_radius=8&count_private=true&hide=issues" />
+<img height="165" src="https://streak-stats.demolab.com/?user=Anuragkumar-687&theme=dark&hide_border=true&border_radius=8" />
 
 </div>
 
 ---
 
+## Why I Contribute
+
+Open source gives me the opportunity to work on production systems, understand real trade-offs, and learn from experienced maintainers through code reviews. I enjoy diving into unfamiliar codebases, investigating issues, and contributing improvements that make software more reliable. Every contribution helps me become a better engineer while giving back to projects that thousands of developers rely on.
+
+---
+
 <div align="center">
 
-**Always open to collaborating on interesting open-source and backend engineering projects.**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anurag-kumar121/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anuragkumar82108@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anuragkumar-687)
+**Always open to collaborating on backend systems, cloud-native software, and open-source projects.**
 
 </div>
