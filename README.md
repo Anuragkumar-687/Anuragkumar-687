@@ -88,12 +88,10 @@ Contributing across both the frontend and Go control plane, working on controlle
 
 ---
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats-salesp07.vercel.app/api?username=Anuragkumar-687&show_icons=true&theme=dark&rank_icon=github&hide_border=true&border_radius=8&count_private=true&hide=issues" />
-<img height="165" src="https://streak-stats.demolab.com/?user=Anuragkumar-687&theme=dark&hide_border=true&border_radius=8" />
-
-</div>
+<p align="center" width="100%">
+  <img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api?username=Anuragkumar-687&show_icons=true&theme=dark&rank_icon=github&hide_border=true&border_radius=8&count_private=true&hide=issues" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=Anuragkumar-687&theme=dark&hide_border=true&border_radius=8" />
+</p>
 
 ---
 
