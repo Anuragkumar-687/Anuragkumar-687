@@ -7,7 +7,6 @@
 I work on distributed storage, Kubernetes controllers, and API infrastructure —
 usually by finding a real bug in a production codebase and fixing it upstream.
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Anuragkumar-687)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anurag-kumar121/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:anuragkumar82108@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Anurag_Kumar2005/)
