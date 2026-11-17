@@ -37,7 +37,7 @@ Contributed multiple merged and ongoing pull requests to the KafkaSQL storage ba
 **[OpenEverest](https://github.com/openeverest/openeverest)** · Go · Kubernetes · TypeScript
 
 Contributing across both the frontend and Go control plane, working on controller lifecycle, provider architecture, plugin systems, and Kubernetes-native database management. The project has given me hands-on experience with Kubernetes operators, reconciliation loops, and cloud-native platform design.
-→ [My contributions](https://github.com/openeverest/openeverest/issues?q=author%3AAnuragkumar-687)
+→ [My contributions](https://github.com/search?q=org%3Aopeneverest+author%3AAnuragkumar-687&type=pullrequests)
 
 ---
 
