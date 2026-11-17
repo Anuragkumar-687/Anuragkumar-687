@@ -32,12 +32,12 @@ I contribute to production open-source projects by investigating issues, underst
 **[Apicurio Registry](https://github.com/Apicurio/apicurio-registry)** · Java · Quarkus · Kafka
 
 Contributed multiple merged and ongoing pull requests to the KafkaSQL storage backend, working on event sourcing, journal replay, cluster consistency, and schema management. Through these contributions, I've gained practical experience with distributed state management and production backend systems.
-→ [My contributions](https://github.com/Apicurio/apicurio-registry/issues?q=author%3AAnuragkumar-687)
+→ [Merged PRs](https://github.com/search?q=org%3AApicurio+author%3AAnuragkumar-687+is%3Amerged&type=pullrequests) · [Issues](https://github.com/search?q=org%3AApicurio+author%3AAnuragkumar-687+is%3Aissue&type=issues)
 
 **[OpenEverest](https://github.com/openeverest/openeverest)** · Go · Kubernetes · TypeScript
 
-Contributing across both the frontend and Go control plane, working on controller lifecycle, provider architecture, plugin systems, and Kubernetes-native database management. The project has given me hands-on experience with Kubernetes operators, reconciliation loops, and cloud-native platform design.
-→ [My contributions](https://github.com/search?q=org%3Aopeneverest+author%3AAnuragkumar-687+is%3Amerged&type=pullrequests)
+Contributing across both the frontend and Go control plane, working on controller lifecycle, provider architecture, plugin systems, and Kubernetes-native database management. The project has given me hands-on experience with Kubernetes operators, reconciliation loops, and cloud-native platform design. I also opened and worked through the [plugin design-system contract discussion](https://github.com/openeverest/openeverest/issues/2661) with the maintainers, which was resolved for v2.0.0-dev.4.
+→ [Merged PRs](https://github.com/search?q=org%3Aopeneverest+author%3AAnuragkumar-687+is%3Amerged&type=pullrequests) · [Issues & design discussions](https://github.com/search?q=org%3Aopeneverest+author%3AAnuragkumar-687+is%3Aissue&type=issues)
 
 ---
 
